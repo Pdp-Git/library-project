@@ -1,0 +1,24 @@
+Kutubxona
+1 ) kutubxonaning bo’limlari mavjud.
+
+   a. Yang bo'lim qo'shish
+   b. Bo'limlarni ko'rish
+   c. Bo'limni edit qilish
+   d. Bo'limni o'shirish
+
+kabi vazifalar bajarilsin.
+
+ 
+2 ) shu bo’limga qarashli kitoblar to’plami bor.
+   a. bo'limga yang kitob qo'shish
+   b. Bo'limga tegishli kitoblarni ko'rish
+   c. Kitobni edit qilish
+   d. Kitobni o'shirish
+
+
+3 ) Kitobning nomi, yozuvchisi, ishlab chiqarilgan 
+yili va sahifalar soni haqida malumotlari bor.
+
+
+Admin kitoblarni qo’shgani yoki o’chirganligi 
+haqida umumiy log yozib borilsin.
